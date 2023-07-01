@@ -24,17 +24,17 @@ Al completar el curso, los estudiantes deberían sentirse cómodos trabajando co
     2. Jupyter Colab, Keras y Tensorflow
     3. Modelos simple de neuronas
     4. Funciones de Activación
-	Rectificador Lineal Unitario
-	Sigmoide (Logística)
-	Tangente Hiperbólica
+        Rectificador Lineal Unitario
+        Sigmoide (Logística)
+        Tangente Hiperbólica
     5. Redes neuronales de arquitectura MLP, CNN, LSTM, coder decoder
     6. Función de coste (loss function)
-	Error media cuadrática MSE o error global
-	Error absoluto medio
-	Log loss, logistic loss o cross-entropy loss
+        Error media cuadrática MSE o error global
+        Error absoluto medio
+        Log loss, logistic loss o cross-entropy loss
     7. Entrenamiento
-	Backpropagation
-	Descenso de gradiente
+        Backpropagation
+        Descenso de gradiente
 
 ## Bibliografía
 	https://www.cienciadedatos.net/documentos/py35-redes-neuronales-python
