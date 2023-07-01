@@ -46,7 +46,7 @@ Al completar el curso, los estudiantes deberían sentirse cómodos trabajando co
 Comienza la primera semana de Octubre de 2023, y finaliza la ultima semana de Noviembre de 2023
 
 ## DURACIÓN
-8 clases de 90 minutos. Las Clases se impartirán on-line los dias jueves a las 18.30 hs (GTM-3) via meet. Las Clases serán grabadas y subidas en el Aula Virtual Moodle, de manera que el Alumnos pueda acceder a la Clase en el horario que le sea más conveniente al interesado.
+8 clases de 90 minutos. Las Clases se impartirán on-line los dias jueves a las 18.30 hs (GTM-3) via meet, serán grabadas y subidas en el Aula Virtual Moodle, de manera que el Alumnos pueda acceder a las mismas en el horario que le sea más conveniente.
 
 ## INSCRIPCIÓN
 Abiertas desde el 1 de septiembre al 25 de septiembre del 2023.
