@@ -1,4 +1,5 @@
 # Redes-Neuronales-con-Python -  2023
+
 ## FUNDAMENTACIÓN Y OBJETIVOS
 El curso de Redes Neuronales con Python tiene como objetivo proporcionar a los estudiantes una comprensión sólida de los fundamentos teóricos y prácticos de las redes neuronales, así como desarrollar sus habilidades para implementar y entrenar redes neuronales utilizando el lenguaje de programación Python.
 
@@ -17,7 +18,6 @@ El curso de Redes Neuronales con Python tiene como objetivo proporcionar a los e
 5. Aplicar las redes neuronales a problemas prácticos, como el reconocimiento de imágenes, el procesamiento del lenguaje natural y la predicción de series temporales.
 
 Al completar el curso, los estudiantes deberían sentirse cómodos trabajando con redes neuronales y ser capaces de aplicar sus conocimientos para resolver problemas del mundo real utilizando Python como lenguaje de programación principal.
-
 
 ## CONTENIDOS
     1. Introducción a las redes neuronales
@@ -46,9 +46,11 @@ Al completar el curso, los estudiantes deberían sentirse cómodos trabajando co
 Comienza la primera semana de Octubre de 2023, y finaliza la ultima semana de Noviembre de 2023
 
 ## DURACIÓN
-8 clases de 90 minutos. El horario es dispuesto por el interesado. Las Clases de Consulta se realizarán on-line los dias jueves a las 18.30 hs (GTM-3) via meet.
+8 clases de 90 minutos. Las Clases se impartirán on-line los dias jueves a las 18.30 hs (GTM-3) via meet. Las Clases serán grabadas y subidas en el Aula Virtual Moodle, de manera que el Alumnos pueda acceder a la Clase en el horario que le sea más conveniente al interesado.
+
 ## INSCRIPCIÓN
 Abiertas desde el 1 de septiembre al 25 de septiembre del 2023.
+
 ## LUGAR
 Mediante clases por internet (On line) mediante meet y Moodle.
 
