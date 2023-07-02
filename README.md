@@ -1,4 +1,5 @@
 # Redes-Neuronales-con-Python -  2023
+Curso de Extensión de la FaMAF - Universidad Nacional de Córdoba de Introducción a la Programación en Python Facultad de Matemática, Astronomía, Física y Computación - FaMAF - UNC
 
 ## FUNDAMENTACIÓN Y OBJETIVOS
 El curso de Redes Neuronales con Python tiene como objetivo proporcionar a los estudiantes una comprensión sólida de los fundamentos teóricos y prácticos de las redes neuronales, así como desarrollar sus habilidades para implementar y entrenar redes neuronales utilizando el lenguaje de programación Python.
