@@ -73,4 +73,5 @@ Al finalizar el curso se le entregará un Certificado Electrónico de Participac
 ## CUPOS
 El curso no tiene cupo por ser online y via Moodle.
 
-## COSTOS:  Sin Costo para alumnos de grado de la FaMAF. Otros, el costo será de pesos veinte mil ($20000.00).  El dinero recaudado será utilizado con fines académicos para la compra de una pc para ser utilizada en la asigantura Métodos Numéricos e investigacion.
+## COSTOS:  
+Sin Costo para alumnos de grado de la FaMAF. Otros, el costo será de pesos veinte mil ($20000.00).  El dinero recaudado será utilizado con fines académicos para la compra de una pc para ser utilizada en la asigantura Métodos Numéricos e investigacion.
