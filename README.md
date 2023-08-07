@@ -1,4 +1,4 @@
-# Redes-Neuronales-con-Python -  2023
+# Redes Neuronales con Python -  2023
 Curso de Extensión de la FaMAF - Universidad Nacional de Córdoba de Introducción a la Programación en Python Facultad de Matemática, Astronomía, Física y Computación - FaMAF - UNC
 
 ## FUNDAMENTACIÓN Y OBJETIVOS
