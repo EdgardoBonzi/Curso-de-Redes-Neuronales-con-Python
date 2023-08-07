@@ -51,6 +51,7 @@ Comienza la primera semana de Octubre de 2023, y finaliza la ultima semana de No
 
 ## INSCRIPCIÓN
 Abiertas desde el 1 de septiembre al 25 de septiembre del 2023.
+Ingreasar a este link para acceder al Formulario de Inscripción: https://forms.gle/wsVhrxhiwNNrsukj9
 
 ## LUGAR
 Mediante clases por internet (On line) mediante meet y Moodle.
