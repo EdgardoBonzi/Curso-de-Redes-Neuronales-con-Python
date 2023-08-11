@@ -55,6 +55,7 @@ Ingreasar a este link para acceder al Formulario de Inscripción: https://forms.
 
 ## LUGAR
 Mediante clases por internet (On line) mediante meet y Moodle.
+Las Clases son grabadas y subidas al Aula Moodle, para que tambien pueda ser realizado de manera asincrónica.
 
 ## ENTORNO COMPUTACIONAL
 La mayoría de las necesidades de software son inmediatas para la gente acostumbrada al entorno Linux, Mac o Windows.
